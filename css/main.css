@@ -37,7 +37,8 @@
 body, html {
 	height: 100%;
 	font-family: Poppins-Regular, sans-serif;
-  background-image: url("");
+  background-image: url("../images/bg_01.jpg");
+  background-size: cover;
 }
 
 /*---------------------------------------------*/
@@ -170,8 +171,8 @@ iframe {
   align-items: center;
   padding: 15px;
     padding-right: 100px;
-  background: #212529;
-  /* background: -webkit-linear-gradient(-135deg, #c850c0, #4158d0);
+  /* background: #212529;
+  background: -webkit-linear-gradient(-135deg, #c850c0, #4158d0);
   background: -o-linear-gradient(-135deg, #c850c0, #4158d0);
   background: -moz-linear-gradient(-135deg, #c850c0, #4158d0);
   background: linear-gradient(-135deg, #c850c0, #4158d0); */
