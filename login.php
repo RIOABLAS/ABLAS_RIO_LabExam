@@ -50,12 +50,12 @@
 					
 					<div class="container-login100-form-btn">
 						<button class="login100-form-btn">
-							Login
+							Sign In
 						</button>
 					</div>
 
 					<div class="text-center p-t-12">
-						<a class="txt2" href="#">
+						<a class="txt2" href="register.php">
 							Don't have an Account?
 						</a>
 					</div>
